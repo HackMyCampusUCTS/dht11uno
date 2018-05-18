@@ -1,44 +1,14 @@
-﻿# dht11uno
-
-“”
-Wiring
-“”
 
 
 
+## Wiring
 
 
 
+> Remark:  GND (-) X GND
+> Remark: VCC (+) X 5v // 3v3
+> Remark: Data (out) X Digital pin 2
 
 
-
-
-
-
-“”
-GND (-) X GND
-VCC (+) X 5v // 3v3
-Data (out) X Digital pin 2
-“”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-“”
-Output
-“”
 
 
